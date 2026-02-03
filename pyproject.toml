@@ -1,0 +1,14 @@
+[project]
+name = "rl-squid-games"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "sai-rl[torch]>=0.1.37",
+]
+
+[tool.uv.workspace]
+members = [
+    "pong-masters",
+]
