@@ -1,4 +1,6 @@
 # 🦑 RL Squid Games — A Stable Actor-Critic RL Agent for "Squid Hunt"
+
+![alt text](https://github.com/StarStrucken/rl-squid-games/blob/master/simulation_image.png "Screenshot of a Simulation Run")
 **Top 5 [ArenaX Labs 2026 Hackathon](https://competesai.com/competitions/cmp_IUpW4lf8ncP6) Submission**
 
 ---
